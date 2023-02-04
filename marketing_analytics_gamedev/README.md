@@ -39,7 +39,3 @@
 - scipy
 - math
 
-
-```python
-
-```
