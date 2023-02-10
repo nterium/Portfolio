@@ -1,2 +1,10 @@
 # Portfolio
-The Portfolio contains my analytical projects for different business cases.
+Портфолио содержит мои аналитические проекты для разных бизнес задач.
+
+Данные проекты были выполнены в ходе обучения в Яндекс Практикуме профессии "Аналитик данных".
+
+| Название проекта | Описание | Используемые библиотеки | 
+|:-----------------|:---------|:----------------------- |
+|[Исследовательский анализ данных рынка общественного питания Москвы](EDA_Moscow_public_food_service)|Поиск закономерностей и интересных особенностей, которые помогут инвесторам в выборе подходящего места для открытия кофейни «Central Perk» из культового сериала «Friends».|*pandas, matplotlib.pyplot, seaborn, numpy, json, plotly, folium* |
+|[Оценка результатов А/В теста recommender_system_test](funnel_AB_test_results)|Оценка корректности проведения теста и анализ результатов теста.|*pandas, numpy, seaborn, matplotlib.pyplot, plotly, math, scipy*|
+|[Маркетинговая аналитика мобильной игры "Космические братья"](marketing_analytics_gamedev)|Исследование поведения игроков в зависимости от источника перехода.|*pandas, numpy, seaborn, matplotlib.pyplot, plotly, math, scipy*|
